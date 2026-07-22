@@ -1,0 +1,7 @@
+baseURL = "https://lsxll666.github.io/blog/"
+languageCode = "zh-CN"
+title = "lsxll666 的博客"
+theme = "ananke"
+
+[params]
+  description = "Powered by Hugo & GitHub Pages · Licensed under CC BY 4.0"
